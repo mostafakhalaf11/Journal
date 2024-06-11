@@ -1,6 +1,6 @@
 # journal
 
-A new Flutter project.
+A News Cloud Flutter Project
 
 ## Getting Started
 
